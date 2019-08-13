@@ -1,1 +1,1 @@
-# Hypotesis_Testing_Northwind_Database
+# Hypothesis_Testing_Northwind_Database

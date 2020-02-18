@@ -10,13 +10,13 @@
 
 ### 1. About this project
 
-For this project I used hypothesis testing and statistical analysis to answer multiple questions about the perfomance of the business.
+For this project I used hypothesis testing and statistical analysis to answer multiple questions about the performance of the business.
 I have tested multiple hypotheses for each question. I have moslty used **Welch's t-tests and one-way ANOVA tests**.
 
 
 ### 2. About the dataset
 
-The Northwind database is an SQL server database created by Microsoft and simulates data from a fictional wholesaler of foods. I have worked with a joined multiple tables in order to find the desired insight. 
+The Northwind database is an SQL server database created by Microsoft and simulates data from a fictional wholesaler of foods. I have  joined multiple tables in order to find the desired insight. 
 
 
 ### 3. Notebook overview

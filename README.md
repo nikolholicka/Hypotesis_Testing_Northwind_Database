@@ -16,7 +16,7 @@ I have tested multiple hypotheses for each question. I have moslty used **Welch'
 
 ### 2. About the dataset
 
-The Northwind database is an SQL server database created by Microsoft and simulates data from a fictional wholesaler of foods. I have  joined multiple tables in order to find the desired insight. 
+The Northwind database is an SQL server database created by Microsoft and simulates data from a fictional wholeseller of foods. I have  joined multiple tables in order to find the desired insight. 
 
 
 ### 3. Notebook overview
